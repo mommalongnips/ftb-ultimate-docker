@@ -1,4 +1,4 @@
-MAINTAINER Mommalongnips
+
 
 RUN mkdir -p /server/ftb
 RUN cd /server/ftb
