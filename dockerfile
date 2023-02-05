@@ -1,4 +1,4 @@
-
+FROM scratch
 
 RUN mkdir -p /server/ftb
 RUN cd /server/ftb
